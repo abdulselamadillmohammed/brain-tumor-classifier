@@ -1,4 +1,4 @@
-# 🧠 CNN Practice: FashionMNIST ➔ Brain Tumor MRI Classification (PyTorch)
+# CNN Practice: FashionMNIST ➔ Brain Tumor MRI Classification (PyTorch)
 
 This project starts by practicing convolutional neural networks (CNNs) on the standard FashionMNIST dataset to verify model setup and training techniques.
 
@@ -13,7 +13,7 @@ The entire workflow is implemented in PyTorch.
 
 ---
 
-## 📚 Project Phases
+## Project Phases
 
 1. **Phase 1: FashionMNIST Practice**
    - Build and train a basic CNN on the FashionMNIST clothing dataset.
@@ -25,7 +25,7 @@ The entire workflow is implemented in PyTorch.
 
 ---
 
-## 📦 Dataset Information
+## Dataset Information
 
 - **FashionMNIST**: Built-in torchvision dataset, 10 classes of clothing items.
 - **Brain Tumor MRI Dataset**: [Kaggle link](https://www.kaggle.com/datasets/esfiam/brain-tumor-mri-dataset)
@@ -35,7 +35,7 @@ The entire workflow is implemented in PyTorch.
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. Install required libraries:
     ```bash
@@ -54,7 +54,7 @@ The entire workflow is implemented in PyTorch.
 
 ---
 
-## 🚀 Model Details
+## Model Details
 
 - **Architecture**: 3 Convolutional layers + ReLU + MaxPooling + Dropout
 - **Loss Function**: CrossEntropyLoss
@@ -64,7 +64,7 @@ The entire workflow is implemented in PyTorch.
   - FashionMNIST: >90% accuracy
   - Brain Tumor MRI: ~86% validation accuracy in 5 epochs
 
-## 🙋‍♀️ Credits
+## Credits
 
 - Dataset by @esfiam on Kaggle
 
